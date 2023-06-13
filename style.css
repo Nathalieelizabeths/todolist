@@ -1,0 +1,75 @@
+.tali{
+    margin-left: 40%;
+}
+.tali img{
+    width: 250px;
+    height: 250px;
+    margin-left: 5%;
+}
+body{
+    margin: 0 100px;
+    background-color: #FFFDD0;
+}
+.LI{
+    color: blue;
+    margin-right: 8%;
+}
+.ty{
+    margin-right: 20%; 
+}
+.form{
+    margin: 0 auto;
+    width: 50%;
+    
+}
+.add{
+   margin-left: 40%; 
+}
+.add .bx{
+    font-size: 60px;
+    color: #124acc;
+}
+.add h1{
+    color: #124acc;
+    margin-right: 5%;
+}
+.form > input{
+    padding: 18px 20px;
+    border: solid 1px #e2e2e2;
+    border-radius: 5px;
+    width: 70%;
+    font-size: 18px;
+    color: #716
+}
+.form .bx{
+    font-size: 50px;
+    gap: 10px;
+    justify-content: space-between;
+    /* margin-bottom: -20%; */
+    color: #124acc;
+    margin-left: 10%;
+}
+.bx bxs-minus-circle {
+    cursor: pointer;
+    color: red;
+    font-size: 20px;
+  }
+  
+  .form {
+    border: 1px solid black;
+    margin: 10px;
+  }
+  
+  .add {
+    text-align: center;
+  }
+  
+.form >button{
+    border: none;
+    outline: none;
+    background-color: #124acc;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 18px;
+}
